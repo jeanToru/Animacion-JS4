@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+canvas{
+    position: absolute;
+    z-index: -1;
+}
+
+  
+  
+  
